@@ -1,4 +1,4 @@
-﻿﻿anyio==3.3.4
+﻿anyio==3.3.4
 asgiref==3.4.1
 backcall==0.2.0
 backports.entry-points-selectable==1.1.0
@@ -45,6 +45,7 @@ python-dotenv==0.19.1
 pytz==2021.3
 PyYAML==6.0
 pyzmq==22.3.0
+rabbitpy~=2.0.1
 requests==2.26.0
 six==1.16.0
 sniffio==1.2.0
